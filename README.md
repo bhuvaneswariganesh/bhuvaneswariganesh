@@ -17,7 +17,7 @@ I'm a passionate developer currently studying and building cool things with code
 
 - 🎯 [LeetCode Tracker](https://leetcode.com/u/BHUVANESWARI_31/) — A web app to track your LeetCode progress
 - 📸 [Online voting system](https://github.com/bhuvaneswariganesh/online-voting-system) —  Online Voting System using Java
-- 💼 [Book library management](https://github.com/bhuvaneswariganesh/book-library) — My personal portfolio site
+- 💼 [Book library management](https://github.com/bhuvaneswariganesh/book-library) — personel library
 
 ---
 
